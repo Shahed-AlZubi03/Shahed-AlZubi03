@@ -59,22 +59,6 @@ A real-time traffic monitoring and control platform designed to improve traffic 
 
 ---
 
-## 🇯🇴 Jordan National Policy Intelligence Platform
-**Production-grade Multi-Agent AI platform**
-
-An AI platform developed for querying **Arabic legal and policy documents using natural language**, designed for government-oriented use cases.
-
-**Highlights**
-- Multi-agent architecture for policy intelligence workflows
-- Grounded LLM responses with **document citations and confidence scoring**
-- Architecture spanning multiple services for knowledge management, governance, orchestration, and agent services
-- React-based user interface
-- Containerized, scalable deployment architecture
-
-**Tech:** `LLMs` `Multi-Agent Systems` `FastAPI` `React` `Docker` `Python`
-
----
-
 ## 🎙️ Meeting Intelligence Engine
 **End-to-end asynchronous AI meeting pipeline**
 
