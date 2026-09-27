@@ -155,18 +155,6 @@ My interests are particularly centered around:
 
 ---
 
-# GitHub Activity
-
-<div align="center">
-
-![Shahed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahed-AlZubi03&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahed-AlZubi03&layout=compact&hide_border=true)
-
-</div>
-
----
-
 # Let's Connect
 
 I'm always interested in connecting with engineers, researchers, and teams working on meaningful applications of **Artificial Intelligence and intelligent software systems**.
